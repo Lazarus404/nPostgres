@@ -1,0 +1,13 @@
+{
+  "name": "nPostgres",
+  "url" : "https://github.com/Lazarus404/npostgres",
+  "license": "LGPL",
+  "tags": ["Postgres", "database", "db", "data", "SQL", "relational"],
+  "description": "nPostgres is a PostgreSQL adapter for the haXe and Neko platforms, providing full SPOD capabilities.",
+  "version": "1.1.0",
+  "classPath": "src/",
+  "releasenote": "Updated to Haxe 3.4.",
+  "contributors": ["leesylvester","jahredlove","maxskyriver"],
+  "dependencies": {},
+  "main": "sys.db.Postgresql"
+}
